@@ -1,0 +1,46 @@
+{
+	"name": "aiota",
+	"preferGlobal": "true",
+	"description": "Another Internet of Things Architecture (AIoTA)",
+	"version": "0.2.28",
+	"author": "Arthur Viegers <arthur@mongodb.com>",
+	"contributors": [
+		{
+			"name": [ "AIoTA Team" ],
+			"email": [ "arthur@mongodb.com", "pattyn.kurt@gmail.com" ]
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/aiota/master/LICENSE"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aiota/master.git"
+	},
+	"keywords": [
+		"iot"
+	],
+	"dependencies": {
+		"aiota-ingestion": ">=0.0.1",
+		"aiota-longpolling": ">=0.0.1",
+		"aiota-register": ">=0.0.1",
+		"aiota-response": ">=0.0.1",
+		"aiota-session": ">=0.0.1",
+		"aiota-telemetry": ">=0.0.1",
+		"forever-monitor": ">=1.5.2"
+	},
+	"bin": {
+		"aiota": "./bin/aiota"
+	},
+	"main": "./lib/aiota",
+	"engines": {
+		"node": ">=0.11.14",
+		"npm": ">=2.0.0"
+	},
+	"bugs": {
+		"url": "https://github.com/iota/issues"
+	}
+}
