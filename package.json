@@ -2,7 +2,7 @@
 	"name": "aiota",
 	"preferGlobal": "true",
 	"description": "Another Internet of Things Architecture (AIoTA)",
-	"version": "0.2.30",
+	"version": "0.2.31",
 	"author": "Arthur Viegers <arthur@mongodb.com>",
 	"contributors": [
 		{
@@ -30,7 +30,7 @@
 		"aiota-response": ">=0.0.1",
 		"aiota-session": ">=0.0.1",
 		"aiota-telemetry": ">=0.0.1",
-		"forever-monitor": ">=1.5.2"
+		"forever-monitor": ">=1.5.2",
 		"mkdirp": ">=0.5.0"
 	},
 	"bin": {
