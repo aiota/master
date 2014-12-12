@@ -3,6 +3,7 @@
 	"serverName": "localhost",
 	"database": {
 		"host": "localhost",
+		"name": "aiota",
 		"port": 27017
 	}
 }
