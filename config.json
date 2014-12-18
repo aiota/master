@@ -1,13 +1,8 @@
 {
 	"serverName": "localhost",
-	"ports": {
-		"mongodb": 27017,
-		"aiota-console": 8080,
-		"aiota-controller": 8081,
-		"aiota-ingestion": [ 8090, 8099 ]
-	},
 	"database": {
 		"host": "localhost",
-		"name": "aiota"
+		"name": "aiota",
+		"port": 27017
 	}
 }
