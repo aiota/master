@@ -14,7 +14,7 @@
 		"authMechanism": "AMQPLAIN",
 		"vhost": "/",
 		"ssl": {
-			enabled : false
+			"enabled": false
 		}
 	}
 }
