@@ -2,7 +2,7 @@
 	"name": "aiota",
 	"preferGlobal": "true",
 	"description": "Another Internet of Things Architecture (AIoTA)",
-	"version": "0.2.52",
+	"version": "0.2.53",
 	"author": "Arthur Viegers <arthur@mongodb.com>",
 	"contributors": [
 		{
