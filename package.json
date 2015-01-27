@@ -34,6 +34,7 @@
 		"aiota-stream": ">=0.0.1",
 		"aiota-telemetry": ">=0.0.1",
 		"aiota-utils": ">=0.0.1",
+		"aiota-websockets": ">=0.0.1",
 		"ip": ">=0.3.2",
 		"mkdirp": ">=0.5.0",
 		"mongodb": ">=1.4.10",
